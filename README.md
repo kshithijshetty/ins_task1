@@ -1,7 +1,4 @@
 # ins_task1
-Sure! Here's a reframed version of your content with some rephrasing while keeping the overall meaning intact:
-
----
 
 # Comparative Analysis of Classical Encryption Techniques
 
